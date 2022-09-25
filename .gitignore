@@ -1,3 +1,4 @@
+.ipynb*
 Forms/
 .DS_Store
 *.csv
